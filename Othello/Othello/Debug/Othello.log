@@ -1,0 +1,10 @@
+﻿  Game.cpp
+c:\users\okami\desktop\fieaportfolio\othello\othello\game.cpp(1447): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\okami\desktop\fieaportfolio\othello\othello\headers\management.h(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\okami\desktop\fieaportfolio\othello\othello\game.cpp(130): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int>(int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Othello.vcxproj -> C:\Users\okami\Desktop\FIEAPortfolio\Othello\Debug\Othello.exe
+  Othello.vcxproj -> C:\Users\okami\Desktop\FIEAPortfolio\Othello\Debug\Othello.pdb (Partial PDB)
